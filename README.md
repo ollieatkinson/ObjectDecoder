@@ -1,3 +1,7 @@
+# Deprecated - Use Decodable in Swift 3.2+
+
+---
+
 # ObjectDecoder
 
 Simple and effective object mapping made possible in Swift - taking advantage of Swift's great features.
